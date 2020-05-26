@@ -20,6 +20,17 @@ namespace Lab21MovieRegistration.Controllers
             return View();
         }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Movie movie)
+        {
+            return RedirectToAction("Result2", movie);
+        }
+
         public IActionResult RegistrationForm()
         {
             return View();

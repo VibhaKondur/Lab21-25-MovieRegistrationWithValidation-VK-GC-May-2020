@@ -82,7 +82,6 @@ C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.csprojAssemblyReference.cache
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.csproj.CoreCompileInputs.cache
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.RazorAssemblyInfo.cache
@@ -114,3 +113,4 @@ C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.pdb
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Lab21MovieRegistration.genruntimeconfig.cache
 C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Razor\Views\MovieRegistration\MakeUser.cshtml.g.cs
+C:\Users\Vibha Kondur\source\repos\Lab21MovieRegistration\Lab21MovieRegistration\obj\Debug\netcoreapp3.1\Razor\Views\MovieRegistration\Create.cshtml.g.cs
